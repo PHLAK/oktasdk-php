@@ -1,6 +1,12 @@
 OktaSDK-PHP
 ===========
 
+**!!! UNMAINTAINED !!!** - I will no longer be maintaining this library and
+recommend switching to the official [`okta/sdk`](https://packagist.org/packages/okta/sdk)
+library instead.
+
+-----
+
 [![Latest Stable Version](https://img.shields.io/packagist/v/iodatacenters/oktasdk.svg)](https://packagist.org/packages/iodatacenters/oktasdk)
 [![Total Downloads](https://img.shields.io/packagist/dt/iodatacenters/oktasdk.svg)](https://packagist.org/packages/iodatacenters/oktasdk)
 [![License](https://img.shields.io/packagist/l/iodatacenters/oktasdk.svg)](https://packagist.org/packages/iodatacenters/oktasdk)
