@@ -3,6 +3,7 @@
     "description": "PHP client library for the Okta API (v1)",
     "keywords": ["okta", "sdk", "api"],
     "license": "MIT",
+    "abandoned": "okta/sdk",
     "authors": [
         {
             "name": "Chris Kankiewicz",
